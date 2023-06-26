@@ -48,7 +48,7 @@ You will need to provide your own Google Maps API keys in the files below:
 2. ios/Runner/AppDelegate.swift
 
 
-You will also need to get your own URA access keys for the file below:
+You will also need to get your own URA access keys for the files below:
 - Access Key was replaced with [URA-ACCESS-KEY]
 1. lib/controllersForEntities/getCarparkdata.dart
 2. lib/loadingscreen.dart
