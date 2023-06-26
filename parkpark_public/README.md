@@ -8,7 +8,7 @@ To run the code, please follow the instructions on (https://youtu.be/hfz_AraTk_k
 You may be required to install Java.
 
 
-The following version of flutter was used:
+The following version of flutter was used for the devlopment of this project:
 - Flutter 3.3.10 • channel stable • https://github.com/flutter/flutter.git
 - Framework • revision 135454af32 (3 months ago) • 2022-12-15 07:36:55 -0800
 - Engine • revision 3316dd8728
