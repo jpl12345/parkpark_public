@@ -21,6 +21,8 @@ ParkPark is a newly developed, self-contained product developed using the Flutte
 4. Display car park information 
 5. Recommend parks to users
 
+To run ParkPark on your computer, please follow the instructions [here](/parkpark_public/README.md).
+
 ---
 
 ## Contributors
