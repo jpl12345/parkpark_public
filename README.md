@@ -3,6 +3,7 @@
 ## Table of Contents
   * [About](#about)
   * [Contributors](#contributors)
+  * [Demonstration](#demonstration)
   * [Outcome](#outcome)
 
 ---
@@ -31,6 +32,15 @@ To run ParkPark on your computer, please follow the instructions [here](/parkpar
 - John (@jpl12345)
 - Najah (@najanajah)
 - Yuhan (@gigglingpenguine)
+
+---
+## Demonstration
+
+Please click on the image below to watch the demonstration on YouTube.
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=a5uEH0We2I0
+" target="_blank"><img src="http://img.youtube.com/vi/a5uEH0We2I0/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" /></a>
 
 ---
 
